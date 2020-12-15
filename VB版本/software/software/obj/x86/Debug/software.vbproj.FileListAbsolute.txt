@@ -1,0 +1,9 @@
+D:\VB\software\software\bin\Debug\software.exe
+D:\VB\software\software\bin\Debug\software.pdb
+D:\VB\software\software\bin\Debug\software.xml
+D:\VB\software\software\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\VB\software\software\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\VB\software\software\obj\x86\Debug\software.vbproj.GenerateResource.Cache
+D:\VB\software\software\obj\x86\Debug\software.exe
+D:\VB\software\software\obj\x86\Debug\software.xml
+D:\VB\software\software\obj\x86\Debug\software.pdb
